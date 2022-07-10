@@ -8,4 +8,4 @@
     Если тебе нужен друг, купи собаку. (Кевин О’Лири)
 
 ### *Link*
- - https://alezarra.github.io/dogs-website/
+ - https://alezarra.github.io/dogs-website/website
